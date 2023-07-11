@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/Libs/jcalendar-1.4.jar",
+        "src/Libs/jfreechart-1.5.0.jar"
+    ]
+}
